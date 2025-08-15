@@ -1,2 +1,2 @@
-# PhytonPractice
+# PythonPractice
 I'm currently taking an introductory Python training course. As a practice alongside my studies, I'm uploading useful and practical code to my GitHub account to showcase my skills. In this code, the user is allowed to choose a password for themselves, which has specific parameters that are all checked, such as: having 8 characters, containing at least one number, and having at least one special character like !, ?, etc. If all the necessary parameters are met, your password will be accepted ✅.
